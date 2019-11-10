@@ -32,7 +32,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'mysql2', '~> 0.4.4'
 
 #use bootstrap
-gem 'bootstrap-sass', '~> 3.3.7'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'bootstrap-will_paginate', '~>1.0.0'
 gem 'will_paginate', '3.1.6'
 
